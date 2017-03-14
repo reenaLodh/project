@@ -1,0 +1,43 @@
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\bin\Debug\student information system.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\bin\Debug\student information system.exe
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\bin\Debug\student information system.pdb
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\bin\Debug\student information system.xml
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.addstudentform4.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.changepassword.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.delete.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.introductionForm2.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.searchform.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.studentform3.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.updateform.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student_information_system.viewaddedstudentsdetail.resources
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student information system.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student information system.exe
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student information system.xml
+c:\users\admin\documents\visual studio 2013\Projects\student information system\student information system\obj\Debug\student information system.pdb
+C:\Users\admin\Desktop\student information system\student information system\bin\Debug\student information system.exe.config
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student information system.exe
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student information system.xml
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student information system.pdb
+C:\Users\admin\Desktop\student information system\student information system\bin\Debug\student information system.exe
+C:\Users\admin\Desktop\student information system\student information system\bin\Debug\student information system.pdb
+C:\Users\admin\Desktop\student information system\student information system\bin\Debug\student information system.xml
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.changepassword.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.delete.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.Form1.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.introductionForm2.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.Resources.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.searchform.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.studentform3.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.updateform.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewaddedstudentsdetail.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewbba.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student information system.vbproj.GenerateResource.Cache
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.addstudent.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewall.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewbca.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewbcis.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewdelete.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewsearch.resources
+C:\Users\admin\Desktop\student information system\student information system\obj\Debug\student_information_system.viewupdates.resources
